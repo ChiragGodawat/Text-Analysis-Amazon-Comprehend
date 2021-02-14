@@ -1,1 +1,0 @@
-# Text-Analysis-Amazon-Comprehend
